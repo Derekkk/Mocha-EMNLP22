@@ -4,6 +4,9 @@ This repository contains data and code for MOCHA in our EMNLP 2022 paper: [MOCHA
 from Cognitive Perspective](https://arxiv.org/pdf/2210.14650v1.pdf)
 
 
+
+
+
 ### Processed Datasets
 Our processed data can be accessed through the [link](https://drive.google.com/drive/folders/1i8JUkhwWwn0oj7h4vOGJxwKoN1RCQea9?usp=sharing)
 - `cmv`: the processed data for argument generation
