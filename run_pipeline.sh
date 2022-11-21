@@ -8,7 +8,7 @@ seeds=(1234)
 few_shot_rates=(-1)
 
 
-t5_path="/home/huzhe01/workspace/Seq2seq-LongForm/model_card/t5"
+t5_path="./model_card/t5"
 
 # distributed train
 for few_shot_rate in "${few_shot_rates[@]}"
