@@ -17,7 +17,7 @@ Our processed data can be accessed through the [link](https://drive.google.com/d
 
 *Note: the `The New York Times Annotated Corpus` is licensed by [LDC](https://catalog.ldc.upenn.edu/LDC2008T19). If you want to use the processed data, please send the email and provide the  license.*
 
-### Requirements
+## Requirements
 
 The original code is tested under the following environment:
 
