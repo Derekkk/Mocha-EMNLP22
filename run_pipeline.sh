@@ -1,5 +1,5 @@
 task="cmv"
-is_mtl="false"
+is_mtl="true"
 
 # seeds=(1001 1002 1003 1004 1005)
 # few_shot_rates=(0.01 0.05 0.1 0.2 0.3)
