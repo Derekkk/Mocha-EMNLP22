@@ -16,5 +16,7 @@ transformers==4.8.2
 - `finetune_generation_pipeline.py`: the code for training and decoding
 - `run_pipeline.sh`: runing script
 
-To run the code, you need to specify the model path and data path in `run_pipeline.sh`, and then run code with bash run_pipeline.sh
-
+To run the code, you need to specify the model path and data path in `run_pipeline.sh`, and then run code with the command:
+```
+bash run_pipeline.sh
+```
