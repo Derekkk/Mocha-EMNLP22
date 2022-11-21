@@ -15,7 +15,7 @@ Our processed data can be accessed through the [link](https://drive.google.com/d
 - `nyt`: the processed data for news article writing
 - `wikiplot`: the processed data for story generation
 
-*Note: the `The New York Times Annotated Corpus` is licensed by [LDC](https://catalog.ldc.upenn.edu/LDC2008T19). If you want to use the processed data, please send the email and provide the  license.*
+*Note: the `The New York Times Annotated Corpus` is licensed by [LDC](https://catalog.ldc.upenn.edu/LDC2008T19). If you have the license and want to use the processed data, please contact me.*
 
 ## Requirements
 
