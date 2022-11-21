@@ -29,6 +29,7 @@ transformers==4.8.2
 ## Code Structure
 - `finetune_generation_pipeline.py`: the code for training and decoding
 - `run_pipeline.sh`: runing script
+- `eval_utils/evaluation.py`: script for automatic evaluations (BLEU, ROUGE, METEOR)
 
 To run the code, you need to specify the model path and data path in `run_pipeline.sh`, and then run code with the command:
 ```
