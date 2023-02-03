@@ -37,6 +37,25 @@ bash run_pipeline.sh
 ```
 
 
+If you find our work useful, please cite:
+```bibtex
+@inproceedings{hu-etal-2022-mocha,
+    title = "{MOCHA}: A Multi-Task Training Approach for Coherent Text Generation from Cognitive Perspective",
+    author = "Hu, Zhe  and
+      Chan, Hou Pong  and
+      Huang, Lifu",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.705",
+    pages = "10324--10334",
+}
+
+```
+
+
 ## Contact
 
 Zhe Hu (zhehu.94 at gmail.com)
